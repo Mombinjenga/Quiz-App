@@ -9,4 +9,4 @@ Quick Quiz is a simple and interactive web-based quiz application. It allows use
 - **High Scores**: View a list of top scores.
 - **Responsive Design**: Works seamlessly across devices.
 
-## Project Structure
+
